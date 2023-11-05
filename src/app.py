@@ -1,7 +1,7 @@
 def squares(x):
     # Perform calculus
     y = x ** 2
-    return x
+    return yu
 
 def cube(x):
     # Perform calculus
